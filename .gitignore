@@ -1,32 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
  
-@kristjan-eljand 
-kristjan-eljand
-/
-flask-auth0
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-flask-auth0/.gitignore
-@kristjan-eljand
-kristjan-eljand requirements.txt and create_app function
-Latest commit 812d19d on Mar 23
- History
- 1 contributor
-132 lines (107 sloc)  1.78 KB
-   
 # vs-code
 .vscode
 
@@ -159,16 +131,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
